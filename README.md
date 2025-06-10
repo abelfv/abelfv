@@ -1,4 +1,5 @@
 <h1 align="center">HOLA 👋, SOY ABEL FRANCO VELEZ</h1>
+🎓 Profesor de Física | 💻 Full Stack Developer | 🌍 Apasionado por la tecnología, la educación y el aprendizaje continuo.
 <h3 align="center">DESARROLLADOR WEB FULL STACK, PROGRAMADOR Y DOCENTE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelfv&label=Profile%20views&color=0e75b6&style=flat" alt="abelfv" /> </p>
