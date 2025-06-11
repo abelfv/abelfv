@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#FF5733;">HOLA 👋,</span>
+  HOLA 👋,
   <span style="color:#3498DB;">SOY ABEL FRANCO VELEZ</span>
 </h1>
 <h2 align="center">
