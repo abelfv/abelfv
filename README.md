@@ -1,6 +1,6 @@
 <h1 align="center">
   HOLA 👋,
-  <span style="color:#3498DB;">SOY ABEL FRANCO VELEZ</span>
+SOY ABEL FRANCO VELEZ
 </h1>
 <h2 align="center">
   <span style="color:#9B59B6;">🎓 Profesor de Física</span> |
