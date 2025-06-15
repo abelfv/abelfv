@@ -4,6 +4,7 @@ SOY ABEL FRANCO VELEZ
 </h1>
 <h2 align="center">
   <span style="color:#9B59B6;">🎓 Profesor de Física</span> |
+  <span style="color:#9B59B6;">🎓 Maestro de primaria</span> |
   <span style="color:#27AE60;">💻 Full Stack Developer</span> |
   <span style="color:#F39C12;">🌍 Apasionado por la tecnología</span>
 </h2>
