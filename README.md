@@ -6,7 +6,7 @@ SOY ABEL FRANCO VELEZ
   <span>🎓 Profesor de Física</span> |
   <span>🎓 Maestro de primaria</span> |
   <span>💻 Full Stack Developer</span> |
-  <span style="color:#F39C12;">🌍 Apasionado por la tecnología</span>
+  <span>🌍 Apasionado por la tecnología</span>
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelfv&label=Profile%20views&color=0e75b6&style=flat" alt="abelfv" /> </p>
