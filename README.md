@@ -9,7 +9,7 @@ SOY ABEL FRANCO VELEZ
   <span>🌍 Apasionado por la tecnología</span>
 </h2>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=abelfv&label=Profile%20views&color=0e75b6&style=flat" alt="abelfv" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abelfv&label=Profile%20views&color=0e75b6&style=flat" alt="abelfv" /> </p>
 
 - 🔭 ACTUALMENTE TRABAJANDO EN **PROYECTOS VARIOS**
 
