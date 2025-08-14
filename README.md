@@ -2,7 +2,7 @@
   HOLA 👋,
 SOY ABEL FRANCO VELEZ
 </h1>
-<h2 align="center">
+<h2>
   <span>🎓 Profesor de Física</span> |
   <span>🎓 Maestro de primaria</span> |
   <span>💻 Full Stack Developer</span> |
