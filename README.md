@@ -23,7 +23,7 @@ SOY ABEL FRANCO VELEZ
 
 - 📫 PUEDES CONTACTARME EN **abelfrancovelez@gmail.com**
 
-<h3 align="center">🌐 Conectemos en redes sociales</h3>
+<h3 align="left">🌐 Conectemos en redes sociales</h3>
 <p>
 <a href="https://twitter.com/abel_velez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abel_velez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abel-v%c3%a9lez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abel-v%c3%a9lez/" height="30" width="40" /></a>
