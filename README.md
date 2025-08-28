@@ -17,7 +17,7 @@ SOY ABEL FRANCO VELEZ
 
 - 🤝 ME GUSTARIA TENER AYUDA PARA DESARROLLAR MIS PROYECTOS **PROYECTOS QUE BENEFICIARIAN A TODOS**
 
-- 👨‍💻 PUEDES VER MI PORTFOLIO EN: [https://abeldev-3900f.web.app/](https://abeldev-3900f.web.app/)
+- 👨‍💻 PUEDES VER MI PORTFOLIO EN EL SIGUIENTE LINK: [https://abeldev-3900f.web.app/](https://abeldev-3900f.web.app/)
 
 - 📝 REGULARMENTE SUBO CONTENIDO EN MI TIKTOK [https://www.tiktok.com/@fisicodev](https://www.tiktok.com/@fisicodev)
 
